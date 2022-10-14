@@ -25,6 +25,6 @@ We use `.php` files to include redundant parts such as header and footer.
 
 ## Co-Author
 
-| [![twitter/babai93](https://avatars.githubusercontent.com/u/3635978?v=4)](http://twitter.com/babai93 "Follow @babai93 on Twitter") | 
+| [![twitter/babai93](https://avatars.githubusercontent.com/u/3635978?v=4 | width=100)](http://twitter.com/babai93 "Follow @babai93 on Twitter") | 
 |---|
-| [Corentin Mors](https://rubai27.netlify.app/) |
+| [Somnath Dutta](https://rubai27.netlify.app/) |
