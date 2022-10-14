@@ -29,4 +29,4 @@ We use `.php` files to include redundant parts such as header and footer.
 |---|
 | [Somnath Dutta](https://rubai27.netlify.app/) |
 <img src="https://avatars.githubusercontent.com/u/3635978?v=4" width="100" height="100">
-![image](https://avatars.githubusercontent.com/u/3635978?v=4)
+[![image](https://avatars.githubusercontent.com/u/3635978?v=4)]
