@@ -22,3 +22,9 @@ We use `.php` files to include redundant parts such as header and footer.
 | [![twitter/mikescops](https://avatars0.githubusercontent.com/u/4266283?s=100&v=4)](http://twitter.com/mikescops "Follow @mikescops on Twitter") | 
 |---|
 | [Corentin Mors](https://pixelswap.fr/) |
+
+## Co-Author
+
+| [![twitter/babai93](https://avatars.githubusercontent.com/u/3635978?v=4)](http://twitter.com/babai93 "Follow @babai93 on Twitter") | 
+|---|
+| [Corentin Mors](https://rubai27.netlify.app/) |
